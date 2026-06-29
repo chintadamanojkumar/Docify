@@ -1,0 +1,6 @@
+{
+  "name": "Docify",
+  "description": "Premium All-in-One PDF workspace with Adobe & iLovePDF tools, scanner, signatures, and Gemini AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
